@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git ssh test
 Git ssh test
 Creating a new branch is quic
+Creating a new branch is master
