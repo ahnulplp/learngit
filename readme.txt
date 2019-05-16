@@ -5,5 +5,5 @@ Git tracks changes of files.
 Git ssh test
 Git ssh test
 Creating a new branch is quic
-Creating a new branch is and master
+Creating a new branch is and master delete
 Creating a new branch is and feature.
